@@ -12,3 +12,15 @@ I waited but this issue didn't resolve. Then I initiated a Google research and f
 
 You can download PubG original file there. The original APK and OBB file is available there. In addition, a compressed ZIP file of the OBB data is also present. And the best part is the splitted ZIP archives. I downloaded about 9 ZIP parts and then joined them on my Android device to get back the original OBB file.
 
+## How to Install
+Download APK file and OBB data and then follow these instructions:
+
+1. Install the APK file like you do normally for other apps
+2. Copy the OBB file to data location. The folder name should be properly named
+3. Launch the game, and wait for a second so the game will find the expansion file
+4. Enjoy playing the game!!
+
+You should be able to start playing PubG mobile game on your Android device within a couple of minutes after you will download the expansion file. Not sure what expansion file is and how it works? [Here is the official Android guide](https://developer.android.com/google/play/expansion-files).
+
+I hope my tutorial helped you installing the game and start playing it. If it did, just star my repo at GitHub and it will help others too. Happy gaming!!!
+
