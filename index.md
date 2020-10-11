@@ -24,3 +24,5 @@ You should be able to start playing PubG mobile game on your Android device with
 
 I hope my tutorial helped you installing the game and start playing it. If it did, just star my repo at GitHub and it will help others too. Happy gaming!!!
 
+
+Watch to watch live IPL online? [Download THOPTV APK Here](https://apkbucket.net/thoptv-apk-ipl-2020-download/)
